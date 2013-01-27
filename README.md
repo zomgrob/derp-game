@@ -1,4 +1,4 @@
 derp-game
 =========
 
-One you will be a game.
+One day you will be a game.
